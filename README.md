@@ -1,2 +1,1 @@
-# UMA-Legal
-For Legal Oriented UMA Materials and Collaboration
+This Repository Houses Legal Oriented UMA Materials and Collaboration.
